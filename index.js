@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 //Declare a constant "answers" aand assign it to the result of inquirer.prompt funtion
 const answers = await inquirer.prompt([
